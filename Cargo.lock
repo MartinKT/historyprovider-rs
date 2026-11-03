@@ -906,7 +906,7 @@ checksum = "7f24254aa9a54b5c858eaee2f5bccdb46aaf0e486a595ed5fd8f86ba55232a70"
 
 [[package]]
 name = "historyprovider"
-version = "3.3.10"
+version = "3.3.11"
 dependencies = [
  "async-broadcast",
  "async-compression",
@@ -1778,9 +1778,9 @@ dependencies = [
 
 [[package]]
 name = "shvproto"
-version = "8.0.6"
+version = "8.0.7"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "d2fdf7e200ceec93e3a26784d58e427a4d08f643740b2dd5a52b044290aafbc2"
+checksum = "d076f0cc909a1741906b13ce83e5b0f3d515cbd81f69eb3d95c4c29d966148dd"
 dependencies = [
  "chrono",
  "hex",
